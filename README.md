@@ -9,3 +9,5 @@ Laboratory for Kong experiments
 * Elasticsearch
 * Kibana
 * Logstash
+
+> **Remember:** You can send TCP Log diret to Elasticsearch withou passing through Lagstash to store raw data.
